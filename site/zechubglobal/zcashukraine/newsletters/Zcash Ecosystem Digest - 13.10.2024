@@ -1,0 +1,90 @@
+Ось український переклад вашого дайджесту для GitHub у тому ж форматі:
+
+# Zcash Ecosystem Digest - 13 жовтня
+
+Zcash Foundation встановлює крайній термін для подання пропозицій ZIP для NU7, Coinbase підтримує Zcash TEX транзакції, Zcash освіта в університетах та гра "Zebra Racing" виграла хакатон Zechub.
+
+Куратором дайджесту виступив "Hardaeborla" ([Hardaeborla](https://x.com/hardaeborla))
+
+---
+
+## Цього тижня: освітній матеріал 👩‍🏫
+
+Firo DEX — це децентралізована біржа (DEX), розроблена для користувачів криптовалют, які дбають про конфіденційність. Біржа співпрацює з AtomicDEX, платформою для крос-чейн обміну, що дозволяє користувачам торгувати різними криптовалютами та токенами, включаючи такі мережі, як Zcash, Ethereum, BSC, Avalanche, Polygon, Litecoin та будь-які інші монети на основі UTXO. Біржа використовує атомарні свопи, що означає, що угоди відбуваються між користувачами напряму, без посередників, підвищуючи безпеку та конфіденційність. Дізнайтеся більше про те, як встановити та налаштувати Firo DEX, переглянувши [навчальне відео]().
+
+## Оновлення Zcash
+
+
+#### Оновлення ECC та ZF 🛠️
+
+[Оновлення ZF Engineering: 2024 Спринт 20](https://forum.zcashcommunity.com/t/zf-engineering-update-2024-sprint-20-september-24th-october-7th/49004)
+
+[Мотивування та майбутнє Zcash - ECC](https://forum.zcashcommunity.com/t/incentives-and-the-future-of-zcash-ecc-update/49008)
+
+[Важливо: Крайній термін подання ZIP-пропозицій для активації у NU7](https://forum.zcashcommunity.com/t/important-deadline-for-zips-that-want-to-be-activated-in-nu7/48998)
+
+[Оновлення щодо припинення підтримки zcashd](https://forum.zcashcommunity.com/t/zcashd-deprecation-updates/48965/3)
+
+[Нове оновлення zcashd 6.0.0](https://electriccoin.co/blog/new-release-6-0-0/)
+
+[Приєднуйтеся до Джоша Свіхарта на DC Privacy Summit](https://x.com/projectglitch_/status/1845422053639299191?t=jkXfVl0ssfUMpjWMG4TBYQ&s=19)
+
+#### Оновлення грантів для спільноти Zcash
+
+[Оновлення гранту на мост Red-bridge для Avalanche](https://forum.zcashcommunity.com/t/zcash-elastic-subnet-bridge-on-avalanche/44220/67)
+
+#### Проєкти спільноти 🏗️
+
+[Саміт конфіденційності Zcash у MAPOLY🎓🇳🇬](https://x.com/CJfrankie_13/status/1844074788698062983?t=vGhOTMxj5CaCE-yTuWdxNw&s=19)
+
+[Гра Zebra Racing виграла хакатон Zechub](https://x.com/ZecHub/status/1845212469809033489?t=hKPQ_gb3k9eWtf6ey2bRwQ&s=19)
+
+[Оновлення R&D Zcash від останнього Arborist Call - zksquirrel](https://x.com/zksquirrel/status/1843303358503043487?t=LQsGLSSK-DcxhuJ57bEndg&s=19)
+
+[Чому криптовалюта має значення](https://x.com/zcashmedia/status/1845064720878915680?t=5vFGtS3fhUzgk2-SK9DSdQ&s=19)
+
+[Основні моменти з саміту Zcash у MAPOLY 🇳🇬](https://x.com/CJfrankie_13/status/1844436575687672317?t=YTWRx_EI8ZyAe2phyz1jIA&s=19)
+
+[Тур з професійної орієнтації 2024/2025](https://free2z.com/Proxpectiva/zpage/vocational-exploration-tour-20242025)
+
+[Порівняння Ywallet, Zashi і Zingo](https://x.com/zcash_community/status/1844549700801733095?t=190bfoy8OFeaSXiolduYxw&s=19)
+
+[Halving Zcash наближається - ZcashEsp](https://x.com/zcashesp/status/1844820010700558576?t=r2v5QMHgWiuaw12Cz1ZLZA&s=19)
+
+[Zcash лідирує у сфері конфіденційності та безпеки!🛡️](https://x.com/Beyond_Karto/status/1843667442360271017?t=vBhPFkKnvse-KIEyny4nwQ&s=19)
+
+[Глобальний день освіти Zcash, збережіть дату](https://x.com/massadoptionorg/status/1843356558765502853?t=xLUkqAXcz_6VyQFPAzWxZg&s=19)
+
+[Приєднуйтесь та підписуйтесь на спільноту Zcash Türkiye](https://x.com/ZcashTR/status/1845441105619271902?t=uGW6BbwPvk6LZkhOMUBQjg&s=19)
+
+
+#### Новини та медіа 📰
+
+[ZachXBT повідомляє про зростання атак на криптотрейдерів - Cointelegraph](https://cointelegraph.com/news/zach-xbt-claims-home-invasions-targeting-crypto-traders-increasing)
+
+[Трамп підтримав запуск токену World Liberty Financial - CoinDesk](https://www.coindesk.com/business/2024/10/11/trump-supported-world-liberty-financial-will-start-public-token-sale-next-week/)
+
+[Криптофірми сплатили $19 млрд у вигляді штрафів регуляторам США у 2024 році - Cointelegraph](https://cointelegraph.com/news/crypto-companies-pay-19-b-in-settlements-to-us-regulators-in-2024)
+
+[Засуджений виконавчий директор FTX Раян Саламе у тюрмі - Cointelegraph](https://cointelegraph.com/news/convicted-ftx-executive-ryan-salame-officially-prison-custody)
+
+[Співзасновник Ripple Кріс Ларсен пожертвував $1 млн в криптовалюті на підтримку кампанії Камали Гарріс - The Block](https://www.theblock.co/post/320785/ripple-co-founder-chris-larsen-donates-1-million-in-crypto-to-pac-supporting-kamala-harris-campaign?modal=newsletter)
+
+
+## Твіти про Zcash 📢
+
+[Представник Zcash з Венесуели](https://x.com/SoyAuraBrito/status/1842140995690938801?t=V9YekJP7w9MsbAqIfejOHA&s=19)
+
+[Coinbase підтримує TEX адреси Zcash](https://x.com/CoinbaseAssets/status/1844428577921507416?t=CDRwm_a219n1WbSAIBUFDg&s=19)
+
+[Найдовша Zcash Global Friday Lounge - Zerodartz](https://x.com/Zerodartz/status/1844812308155130047)
+
+[Чи завантажили ви Zashi?](https://x.com/zcash_community/status/1844147239259930696?t=60Gs8cqeyuHqzbMdiHnYAg&s=19)
+
+[Наближається анонімна ера - @Zcash_Community](https://x.com/zcash_community/status/1844730237793566768)
+
+[Zooko на DC Privacy Summit](https://x.com/projectglitch_/status/1845414320915571005)
+
+[ZEC формує майбутнє - @dontpanicburns](https://x.com/DontPanicBurns/status/1845302461839405559?t=GIdOEcXzkOWculTKLsG30Q&s=19)
+
+[Новий мем Zcash? 🤭 - @Zcash_Community](https://x.com/zcash_community/status/1844474600085995943?t=raI_8IMefp3uic_-s3wmWA&s=19)
