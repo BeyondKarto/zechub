@@ -1,0 +1,75 @@
+**Огляд екосистеми Zcash - 27 жовтня**
+
+**Святкуємо 8-річчя Zcash, перейменування ZSF на Механізм стійкості мережі (NSM), оновлення про Namada Airdrop для Zcash та випуск FROST v2.0.0 від ZF**
+
+Куратор дайджесту — "Hardaeborla" ([Hardaeborla](https://x.com/hardaeborla?t=I3ic9kShocSnUu8q5-mUJA&s=09))
+
+---
+
+## Цього тижня: освітній матеріал 👩‍🏫
+
+Якщо ви хочете моніторити метрики мережі Zcash у реальному часі, наш новий навчальний посібник покаже вам, як налаштувати це. Використовуючи вузол Zebra разом з Grafana, ви зможете створити потужну панель для перегляду та аналізу даних про продуктивність Zcash.
+
+У цьому посібнику ви навчитеся налаштовувати вузол Zebra для збору цінних метрик та інтегрувати його з Grafana для зручного відображення показників, таких як стан мережі, швидкість транзакцій та продуктивність вузлів.
+
+Цей посібник підійде як для розробників, так і для ентузіастів Zcash. Детальніше дізнайтесь, переглянувши навчальне відео нижче 👇
+
+https://youtu.be/r5pw3f3fBPE?si=xYeXBcrnM7ADsuna
+
+---
+
+## Оновлення Zcash
+
+#### Оновлення ECC та ZF 🛠️
+
+- [Consenting Opinions - Оновлення ECC](https://forum.zcashcommunity.com/t/consenting-opinions-ecc-update/49148) 
+- [Zcash Foundation оголошує випуск FROST v2.0.0](https://x.com/ZcashFoundation/status/1849487522302201899?t=6uwKuove3rQ35fi3BL0dqw&s=19) 
+- [@peacemongerZ та @andrea_kob обговорюють оновлення UX та дизайну Zashi](https://x.com/zashi_app/status/1849223352453300513?t=B2RZsfUQ7cuugSVTYy4ULw&s=19)  
+- [Оновлення Zashi App 1.2.1!](https://x.com/ElectricCoinCo/status/1848426232435691728?t=LO2vOEaQlgayOcabXfFKSg&s=19) 
+- [Оголошено переможця конкурсу відео Zashi x Coinbase! - Zashi_App](https://x.com/zashi_app/status/1849538670044324018?t=n5OZuL1JXF3GGVYobJj5_w&s=19) 
+
+---
+
+#### Оновлення грантів для спільноти Zcash
+
+- [Підтримка фінансової конфіденційності в Африці: Будівництво спільноти Zcash](https://forum.zcashcommunity.com/t/empowering-financial-privacy-in-africa-building-a-zcash-community/49150) 
+- [Заявка на підтримку Keystone Hardware Wallet](https://forum.zcashcommunity.com/t/keystone-hardware-wallet-support-grant-application/48508/116) 
+- [Переглянутий Nym для мережевого рівня конфіденційності ZCash](https://forum.zcashcommunity.com/t/revised-nym-for-zcash-network-level-privacy/46688/34) 
+- [Настільна гра "Crypto Trader: Zcash Edition"](https://forum.zcashcommunity.com/t/grant-application-for-the-development-of-the-board-game-crypto-trader-zcash-edition-for-zcash/49100)
+
+---
+
+#### Проєкти спільноти 🏗️
+
+- [Приєднуйтесь до святкування 8-річчя Zcash 🎂](https://x.com/ZecHub/status/1849866044913090738?t=Nc864w3S6hu7CrkRXocxiQ&s=19) 
+- [Оновлення щодо Namada - Zcash Airdrop - Форум спільноти](https://x.com/mineZcash/status/1849839977313476951?t=NtXqdEHvjhkhlHuUBZIYzQ&s=19) 
+- [ZSF тепер NSM: Механізм стійкості мережі](https://forum.zcashcommunity.com/t/network-sustainability-mechanism-nsm/42703/176) 
+- [Zcash Español проводить захід на честь Global Education Day](https://x.com/zcashesp/status/1850235224707527070?t=Jw4XJkfVSpjiHISfLOxqkg&s=19) 
+- [Резюме саміту DC Privacy](https://x.com/zcash/status/1849444582682976533?t=nzRpaFIw7_nKPP3E3i1lHQ&s=19) 
+- [Все, що вам потрібно знати про Zcash - ZecHub](https://x.com/ZecHub/status/1849829026052833572?t=1HFA5C_ZXsR7NRHcrTQNiw&s=19) 
+- [Приєднуйтесь до Global Education Day як волонтер - Mass Adoption Org](https://x.com/massadoptionorg/status/1850170879826702346?t=up9SCzPedYmJP0PofJJfwg&s=19) 
+- [Календар майбутніх подій та прем'єра другого сезону щотижневих воркшопів - ZkAV Club](https://x.com/ZkAv_Club/status/1848368574928130213?t=KtsdelRTpOXfqVEM-rfrJw&s=19) 
+- [Візьміть жовту пігулку 😄 - Michae2xl](https://x.com/michae2xl/status/1850348144204112380?t=KShnwYP_H_8lfWgRnvz2aA&s=19) 
+- [Оновлення інтеграції Keystone X Zcash](https://x.com/KeystoneWallet/status/1848771377047998521?t=tLpo2r8Kib9i5TVR3ceseQ&s=19) 
+- [Інструкція з встановлення Ywallet турецькою мовою - ZcashTR](https://x.com/ZcashTR/status/1848367198617657633?t=3fStxb8DyE92bUGLYCfw1A&s=19) 
+- [Лінія життя, яку ми не можемо втратити - Zcash Media](https://x.com/zcashmedia/status/1850168277458124937?t=UzfjjU-6rtZ35I40JpE12A&s=19) 
+- [Відчуйте справжню свободу з цими інструментами](https://x.com/vitozkp/status/1849201152446927286?t=Z1yMX4wIdEVQLSKXZmIDSg&s=19) 
+- [Конфіденційність - один з найменш зрозумілих аспектів криптовалют - TheDesertLynx](https://x.com/TheDesertLynx/status/1850198868216160312?t=7z3-suGGE3BgWsixLlP_NA&s=19) 
+- [Прозорі та захищені транзакції - Beyond Karto](https://x.com/Beyond_Karto/status/1848607695428800525?t=SxztRj2VeEbrBfsByDzgGg&s=19) 
+- [Вгадайте, що всередині?😜](https://x.com/TheVladCostea/status/1850186608022036874?t=rHgLk5pzzZCRaZay082sLQ&s=19) 
+- [Чому ми з Сатоші відкидаємо централізований контроль над грошима - Zooko](https://x.com/zcashmedia/status/1850245289816277264?t=NdxXLyAo0lJKkfjUUh_3HA&s=19) 
+- [Залишайтесь захищеними🛡️](https://x.com/zcash/status/1849109615121699075?t=bq7N-IvVBtsjXQnj8aXXCw&s=19)  
+- [Публічний Bitcoin і захищений Zcash - Michae2xl](https://x.com/michae2xl/status/1850362311678021860?t=qgFcrHFvTwUZ4cJhEkce-g&s=19) 
+- [Чому у ZEC постійний попит?](https://x.com/Jeffreytief/status/1848897441632079931?t=rStXH2RIW_IvOgRHrCHWTw&s=19) 
+
+---
+
+## Мем тижня
+
+- [Zcash мем від @badcryptobitch](https://x.com/badcryptobitch/status/1848439149004488971?t=LKeUuSEraQjeF-UO2z5ahA&s=19)
+
+---
+
+## Робота в екосистемі
+
+- [Завдання ZecHub Dework (публікація по понеділках)](https://dework.zechub.org/)
