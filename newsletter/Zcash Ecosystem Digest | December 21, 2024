@@ -1,0 +1,79 @@
+# Zcash Ecosystem Digest | December 21, 2024
+
+This week, we saw active discussions on future priorities for NU7, the development of the ZEC hardware wallet for encrypted storage, tips on how to publish apps anonymously, and a detailed look at integrating tools into the Zcash infrastructure. In addition, the community looked at potential ways to increase the privacy of digital currencies at the government level and considered the experience of using old Sprout addresses.
+
+---
+
+#### This Week’s Education Piece
+
+The latest tutorial from **ZecHub** demonstrates how to scan the Zcash Network using a Zebra node and Ziggurat to attain an accurate node count and gather version information. Strengthen your understanding of Zcash’s network topology and help improve decentralization efforts.
+
+[Download Zebra Launcher Tutorial](https://www.youtube.com/watch?v=tQ5CcXvdcfA&feature=youtu.be)
+
+---
+
+### ECC & ZF Updates
+
+- **ZF Engineering Update: 2024 Sprint 25 (December 3rd - December 16th)**  
+  [Forum Post by pili (Zcash Foundation)](https://forum.zcashcommunity.com/t/zf-engineering-update-2024-sprint-25-december-3rd-december-16th/49763)  
+  Latest technical progress covering Zebra improvements, RPC adjustments, and continued development towards network upgrade readiness.
+
+- **Polling ZCAP on NU7 priorities**  
+  [Forum Post by ZcashFoundation](https://forum.zcashcommunity.com/t/polling-zcap-on-nu7-priorities/49766)  
+  The Zcash Foundation invites ZCAP input to guide prioritization of features for the next major network upgrade (NU7).
+
+- **Zashi-Keystone Hardware Wallet Integration for Shielded ZEC**  
+  [Forum Post by peacemonger (Electric Coin Company)](https://forum.zcashcommunity.com/t/its-here-zashi-keystone-hardware-wallet-integration-for-shielded-zec/49784)  
+  A major milestone in Zcash usability: shielded ZEC now supported on a hardware wallet. Collaborative efforts by ECC, Keystone, and Zashi pave the way for more secure and private cold storage.
+
+---
+
+### Zcash Community Grants:
+
+- **2025 ZCG Compensation**  
+  [Forum Post by wobbzz (Community Grants Member)](https://forum.zcashcommunity.com/t/2025-zcg-compensation/49767)  
+  Proposal to increase committee member compensation and explore a USD + ZEC hybrid model to enhance talent attraction and retention in ZCG governance.
+
+- **Zcash Infra - 1 year - hanh**  
+  [Issue by hanh (Ywallet Creator)](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/5)  
+  A year-in-review from the Ywallet creator on the state of Zcash infrastructure, highlighting achievements and continued work funded by community grants.
+
+---
+
+### Community Projects
+
+- **Unlocking Privacy: A Community Webinar**  
+  [Forum Post by Kenzo](https://forum.zcashcommunity.com/t/unlocking-privacy-a-community-webinar/49774)  
+  Join the Cryptoevangelist Community Webinar on Zcash (Dec 20, 6 PM UTC) to explore privacy fundamentals, Q&A sessions, and broader community engagement.
+
+---
+
+### Privacy Discussions
+
+- **How to publish Android apps anonymously?**  
+  [Forum Post by ceb9ceb4ceb9cf89cf84](https://forum.zcashcommunity.com/t/how-to-publish-android-apps-anonymously/49769)  
+  Community members discuss privacy-preserving strategies for developers wanting to launch Android applications without exposing personal identity.
+
+- **Paper wallet with latest zcash-cli, sprout zaddr**  
+  [Forum Post by ezaron](https://forum.zcashcommunity.com/t/paper-wallet-with-latest-zcash-cli-sprout-zaddr/49770)  
+  Questions and answers on handling legacy Sprout addresses, exporting keys, and best practices for secure offline backups.
+
+- **Enhancing the Privacy of a Digital Pound**  
+  [Forum Post by SexDrugsAndZcash](https://forum.zcashcommunity.com/t/enhancing-the-privacy-of-a-digital-pound/49788)  
+  A discussion on the MIT report for the Bank of England, exploring privacy-enhancing technologies for a potential digital pound and how Zcash and Monero are referenced as privacy exemplars.
+
+---
+
+### Meme of the Week
+
+No meme updates from the filtered topics this week.
+
+---
+
+### Jobs in the Ecosystem
+
+No job updates from the filtered topics this week.
+
+---
+
+Stay tuned for more updates next week as we continue to celebrate privacy, innovation, and community-driven progress in the Zcash ecosystem!
